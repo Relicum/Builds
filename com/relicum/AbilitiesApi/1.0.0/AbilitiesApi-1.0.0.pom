@@ -10,10 +10,18 @@
 
     <name>AbilitiesApi</name>
 
+    <scm>
+        <connection>scm:git:git://github.com/Relicum/AbilitiesApi.git</connection>
+        <developerConnection>scm:git:git@github.com:Relicum/AbilitiesApi.git</developerConnection>
+        <url>https://github.com/Relicum/AbilitiesApi</url>
+        <tag>master</tag>
+    </scm>
+
     <build>
         <finalName>AbilitiesApi</finalName>
 
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
+
 
         <resources>
             <resource>
