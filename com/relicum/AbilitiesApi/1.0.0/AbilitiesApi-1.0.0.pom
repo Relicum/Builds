@@ -6,6 +6,7 @@
     <groupId>com.relicum</groupId>
     <artifactId>AbilitiesApi</artifactId>
     <version>1.0.0</version>
+    <url>http://www.codemine.org</url>
     <packaging>jar</packaging>
 
     <name>AbilitiesApi</name>
