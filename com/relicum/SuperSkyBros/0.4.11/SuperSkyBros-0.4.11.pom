@@ -9,7 +9,7 @@
         to run in Minecraft</description>
   <build>
     <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
-    <defaultGoal>clean install</defaultGoal>
+    <defaultGoal>clean install deploy</defaultGoal>
     <resources>
       <resource>
         <directory>${project.basedir}/src/main/resources</directory>
