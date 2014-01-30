@@ -145,6 +145,12 @@
       <artifactId>LibsDisguises</artifactId>
       <version>LATEST</version>
       <scope>provided</scope>
+      <exclusions>
+        <exclusion>
+          <artifactId>spigot-api</artifactId>
+          <groupId>org.spigotmc</groupId>
+        </exclusion>
+      </exclusions>
     </dependency>
     <dependency>
       <groupId>com.sk89q</groupId>
