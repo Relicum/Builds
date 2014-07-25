@@ -21,7 +21,7 @@
         </includes>
       </resource>
     </resources>
-    <finalName>SuperSkyBros.Beta.${project.version}-b${BUILD_NUMBER}</finalName>
+    <finalName>SuperSkyBros.Beta.${project.version}</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
